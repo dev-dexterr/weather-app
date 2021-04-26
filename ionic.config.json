@@ -1,0 +1,7 @@
+{
+  "name": "hi-weather-tab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
